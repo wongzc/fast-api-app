@@ -1,0 +1,5 @@
+run with
+python -m uvicorn main:app --reload --port <port> --host <ipv4>
+
+check config
+ipconfig
